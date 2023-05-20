@@ -12,7 +12,7 @@ String Reverse using corba , idl and java implementation :
 
 4. Start orbd. To start orbd from a UNIX command shell, enter :
 
-  	    orbd -ORBInitialPort 1050&
+  	 orbd -ORBInitialPort 1050&
 
 5. Start the server. To start the  server from a UNIX command shell, enter :
 
